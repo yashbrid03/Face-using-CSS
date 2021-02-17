@@ -17,7 +17,7 @@ body{
 .head{
     width: 200px;
     height: 250px;
-    background-color: #e0ac69;
+    background-color: hsl(34, 66%, 65%);
     border-radius:  70% 70% 100% 100%;
      display: flex;
     justify-content: center;
@@ -175,7 +175,7 @@ body{
 .speaker {
   width: 25px;
   height: 70px;
-  border: 2px solid hsl(19, 46%, 68%);
+  border: 2px solid hsl(19, 40%, 55%);
   background: brown;
   border-radius: 0 100% 100% 0;
 }
@@ -188,11 +188,10 @@ body{
     position: absolute;
     height: 120px;
     width: 220px;
-/*    background-color: red;*/
     margin-bottom: 210px;
-/*    border: 0% 0% 100% 100% solid red ;*/
     z-index: -1;
     border-radius: 50% 50% 0% 0%  ;
     border:10px solid red;
     border-bottom: 0;
 }
+
