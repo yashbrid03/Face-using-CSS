@@ -8,20 +8,53 @@ body{
     background-color: pink;
     width:100vw;
     height:100vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+
+.head{
+  position: relative;
+    width: 200px;
+    height: 250px;
+    background-color: hsl(34, 66%, 65%);
+    border-radius:  70% 70% 100% 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-
-.head{
-    width: 200px;
-    height: 250px;
-    background-color: hsl(34, 66%, 65%);
-    border-radius:  70% 70% 100% 100%;
-     display: flex;
+.textbox{
+  position: relative;
+  display: flex;
+  width: 350px;
+    height: 100px;
+    top:35%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: blanchedalmond;
     justify-content: center;
     align-items: center;
+    border-radius: 20px;
+    font-size: 1.5rem;
+    border: 2px solid rgb(197, 130, 130);
+}
+
+.textbox::before{
+  content: "";
+  position: absolute;
+  top: -30%;
+  left: 5%;
+  width: 0; 
+  height: 0; 
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  
+  border-bottom: 30px solid blanchedalmond;
 }
 
 .hair{
@@ -151,7 +184,7 @@ body{
 .mouth {
   position: absolute;
   width: 70px;
-  height: 20px;
+  height: 0px;
   background: white;
   margin-top: 150px;
   border-radius: 20% 20% 100% 100%;
