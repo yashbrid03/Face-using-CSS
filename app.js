@@ -1,3 +1,5 @@
+//code by Yash Brid
+
 const t1 = new TimelineMax();
 const t2 = new TimelineMax();
 const mouth = document.querySelector('.mouth');
@@ -40,6 +42,7 @@ function typeWriter() {
         stop();
     }
 }
+
 
 
 
