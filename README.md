@@ -1,4 +1,3 @@
-![output](https://user-images.githubusercontent.com/65955929/110617548-d5287d00-81bb-11eb-825a-449979b8f534.png)
 # Face-using-CSS
 <h2>📙 Abstract :</h2>
 <p>This is a fun project just made to demonstrate my CSS and Javascript Abilities.
@@ -30,7 +29,7 @@
   <li><b>Flex</b></li>
   </ul>
   
-<h2>This is a fully responsive web application</h2>
+<h2>This is a fully responsive Webpage</h2>
 
 ![output](https://user-images.githubusercontent.com/65955929/110617654-ed989780-81bb-11eb-90f9-e1b9d679d3d3.png)
 
