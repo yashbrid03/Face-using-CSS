@@ -1,3 +1,4 @@
+![output](https://user-images.githubusercontent.com/65955929/110617548-d5287d00-81bb-11eb-825a-449979b8f534.png)
 # Face-using-CSS
 <h2>📙 Abstract :</h2>
 <p>This is a fun project just made to demonstrate my CSS and Javascript Abilities.
@@ -31,4 +32,7 @@
   
 <h2>This is a fully responsive web application</h2>
 
+![output](https://user-images.githubusercontent.com/65955929/110617654-ed989780-81bb-11eb-90f9-e1b9d679d3d3.png)
+
+![image](https://user-images.githubusercontent.com/65955929/110617727-0608b200-81bc-11eb-9750-b0412158b387.png)
 
